@@ -19,3 +19,6 @@
 9. Run `browserify -t [ babelify --presets [ react ] ] src/index.js -o build/app.js` to build the compiled js file into the build dir.
 
 10. (OPTIONAL) Create a script for the previous command in `package.json`. 
+
+This project is a tldr of the article found here:
+https://codeutopia.net/blog/2016/01/25/getting-started-with-npm-and-browserify-in-a-react-project/
