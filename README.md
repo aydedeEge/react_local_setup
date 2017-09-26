@@ -1,4 +1,4 @@
-#H1 How to set up a react project using npm and compile it through browsify
+# How to set up a react project using npm and compile it through browsify
 
 1. Install Node.js
 
